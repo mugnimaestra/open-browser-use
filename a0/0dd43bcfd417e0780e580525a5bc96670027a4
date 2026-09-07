@@ -1,0 +1,28 @@
+README.md
+  h_2d220f5439def3 129-140
+apps/chrome-extension/background.js
+  h_2d220f5439def3 374-375,377-379,381-383,385-422
+apps/chrome-extension/history.test.mjs
+  h_2d220f5439def3 1-140
+docs/exec-plans/completed/2026-09-07-codex-extension-capabilities.md
+  h_2d220f5439def3 1-51
+docs/histories/2026-09/20260907-0014-codex-extension-history-search.md
+  h_2d220f5439def3 1-58
+docs/releases/feature-release-notes.md
+  h_2d220f5439def3 7
+docs/wiki/browser-client/README.md
+  h_2d220f5439def3 23-25
+docs/wiki/browser-client/runtime/chatgpt-extension-2026-09.md
+  h_2d220f5439def3 1-164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "a00dd43bcfd417e0780e580525a5bc96670027a4",
+  "prompts": {},
+  "humans": {
+    "h_2d220f5439def3": {
+      "author": "Muhammad Mugni Hadi <mugni@rukita.co>"
+    }
+  }
+}
