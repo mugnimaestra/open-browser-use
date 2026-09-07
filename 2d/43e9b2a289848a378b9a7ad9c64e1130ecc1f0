@@ -1,0 +1,21 @@
+README.md
+  s_c557e3868628cc::t_b7b913d5a8f12a 131-138
+apps/chrome-extension/background.js
+  s_c557e3868628cc::t_ec466ce1d03127 372-375
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "2d43e9b2a289848a378b9a7ad9c64e1130ecc1f0",
+  "prompts": {},
+  "sessions": {
+    "s_c557e3868628cc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f867a7569ffe9MQCFYCdhrRnZL",
+        "model": "muse-spark-1.3-contributor-free"
+      },
+      "human_author": "Muhammad Mugni Hadi <mugni@rukita.co>"
+    }
+  }
+}
