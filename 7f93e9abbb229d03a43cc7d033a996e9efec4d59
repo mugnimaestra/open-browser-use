@@ -1,0 +1,39 @@
+apps/chrome-extension/content-webmcp-bridge.js
+  h_2d220f5439def3 1-93
+apps/chrome-extension/webmcp.test.mjs
+  h_2d220f5439def3 1-454
+apps/chrome-extension/background.js
+  h_2d220f5439def3 4,8-10,16-37,241,243-300,302,332,337-339,562-614,1252-1311,1364-1394,1490-1505,1523-1524
+packages/browser-use-protocol/src/index.ts
+  h_2d220f5439def3 14-59
+docs/releases/feature-release-notes.md
+  h_2d220f5439def3 3-8
+apps/chrome-extension/content-webmcp-main.js
+  h_2d220f5439def3 1-370
+scripts/package-chrome-extension.sh
+  h_2d220f5439def3 38-39,101-102,117-118,135-136
+docs/wiki/browser-client/security/policy-and-permissions.md
+  h_2d220f5439def3 65-88
+docs/ARCHITECTURE.md
+  h_2d220f5439def3 188,192-200
+docs/histories/2026-09/20260903-1123-webmcp-parity.md
+  h_2d220f5439def3 1-79
+skills/open-browser-use/references/sdk-and-protocol.md
+  h_2d220f5439def3 233-234,253-316
+docs/exec-plans/completed/2026-09-03-webmcp-parity.md
+  h_2d220f5439def3 1-101,104-120
+  h_2d220f5439def3 102-103
+apps/chrome-extension/fixtures/webmcp-polyfill.html
+  h_2d220f5439def3 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "7f93e9abbb229d03a43cc7d033a996e9efec4d59",
+  "prompts": {},
+  "humans": {
+    "h_2d220f5439def3": {
+      "author": "Muhammad Mugni Hadi <mugni@rukita.co>"
+    }
+  }
+}
