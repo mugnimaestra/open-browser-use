@@ -1,0 +1,20 @@
+docs/histories/2026-09/20260914-1304-skill-webmcp-discovery-first.md
+  h_2d220f5439def3 1-46
+skills/open-browser-use/SKILL.md
+  h_2d220f5439def3 3,19-25,42-88,227
+skills/open-browser-use/agents/openai.yaml
+  h_2d220f5439def3 4
+skills/open-browser-use/evals/evals.json
+  h_2d220f5439def3 1-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "459c4530466c98b4875e3a80152ffedc53587e80",
+  "prompts": {},
+  "humans": {
+    "h_2d220f5439def3": {
+      "author": "Muhammad Mugni Hadi <mugni@rukita.co>"
+    }
+  }
+}
