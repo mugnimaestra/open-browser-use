@@ -1,0 +1,33 @@
+skills/open-browser-use/references/sdk-and-protocol.md
+  s_dcc576d8c4931e::t_8eb362ca38c984 284-289
+apps/chrome-extension/webmcp.test.mjs
+  s_dcc576d8c4931e::t_a10d622532318f 74,77-79,85,178-219,223-224,226-229,231-245
+  s_dcc576d8c4931e::t_2fea019702056b 68,75-76,80-84,247,249-259,264-265,267-269
+docs/exec-plans/completed/2026-10-22-webmcp-chrome155.md
+  s_dcc576d8c4931e::t_b0ec40146b36bb 1-49
+apps/chrome-extension/content-webmcp-main.js
+  s_dcc576d8c4931e::t_0b0cde81557e6a 115
+  s_dcc576d8c4931e::t_8eb362ca38c984 116-127
+docs/releases/feature-release-notes.md
+  s_dcc576d8c4931e::t_8eb362ca38c984 7
+apps/chrome-extension/manifest.json
+  s_dcc576d8c4931e::t_8eb362ca38c984 5
+docs/histories/2026-10/20261022-2033-webmcp-chrome155.md
+  s_dcc576d8c4931e::t_b0ec40146b36bb 1-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3fa9afc3e8a331ebc4bc67e9f7e73c558e8e67cc",
+  "prompts": {},
+  "sessions": {
+    "s_dcc576d8c4931e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a163a9-e1ce-73c1-b443-3d7e720d7211",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Muhammad Mugni Hadi <mugni@rukita.co>"
+    }
+  }
+}
